@@ -7,6 +7,11 @@
   --foreground: #171717;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
@@ -18,4 +23,24 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Customize Swiper Navigation Arrows */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #8b5cf6 !important;
+  /* Your purple color with !important */
+}
+
+/* Customize Swiper Pagination Bullets */
+.swiper-pagination-bullet {
+  background: #d8b4fe !important;
+  /* Light purple for inactive bullets */
+  opacity: 0.7 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #8b5cf6 !important;
+  /* Your purple color for active bullet */
 }
