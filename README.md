@@ -5,6 +5,7 @@
 ## **Overview**
 
 Welcome to the **Next.js Multipage Landing Page Template**—an elegant, scalable, and customizable web project crafted to meet the needs of modern digital businesses. This project is designed with simplicity and maintainability in mind, featuring cutting-edge technologies and best practices.
+Live Demo - https://pex-t-next-js-and-tailwind-css-landing-page.vercel.app/
 
 ### **Features**
 - 🚀 **Built with Next.js**: Leverage the power of Next.js for fast server-side rendering (SSR) and static site generation (SSG).
