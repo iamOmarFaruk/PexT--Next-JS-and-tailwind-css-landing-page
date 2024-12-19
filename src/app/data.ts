@@ -217,5 +217,5 @@ export const footerData = {
       links: ["New", "Old", "Trending", "Popular"],
     },
   ],
-  footerText: "PEXT Pro Landing Page | All Rights Reserved.",
+  footerText: "PEXT Pro | Next Js Landing Page by Omar | All Rights Reserved.",
 };
